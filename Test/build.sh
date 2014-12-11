@@ -1,0 +1,1 @@
+make FLASCC=/cygdrive/c/crossbridge/sdk FLEX=/cygdrive/c/air_sdk
